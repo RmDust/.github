@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![RMDUST](Resource/Rmdust.png)
+![RMDUST](Resource\Rmdust.png)
