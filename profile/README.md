@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![RMDUST](Resource/rdw.png)
+![RMDUST](https://github.com/RMDUST/.github/blob/main/profile/Resource/rdw.png)
 
 。
