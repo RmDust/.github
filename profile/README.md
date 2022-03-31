@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![RMDUST](Resource/Rmdust-2022-March-Revocery-1.png)
+![RMDUST](Resource/Rmdust-2022-March-Recovery-1.png)
 
 
